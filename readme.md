@@ -67,6 +67,20 @@ Esse projeto foi realizado durante a Next Level Week Journey, em julho de 2024, 
 
 ## Tecnologias Utilizadas
 
-- **FrontEnd:** ReactJs, HTML, CSS, Tailiwind
-- **BackEnd:** NodeJS
+- **FrontEnd:** 
 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30"/>
+
+
+- **BackEnd:** 
+
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50"/>
+          
+          
+
+
+          
+          
+          
+
+          
