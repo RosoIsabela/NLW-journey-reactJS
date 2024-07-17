@@ -1,6 +1,6 @@
 # Planejador de Viagem ✈️
 
-![Planejador de Viagem](/frontend/public/planejador_de_viagem.png)
+![Planejador de Viagem](./public/planejador_de_viagem.png)
 
 <br>
 
